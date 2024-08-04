@@ -1,9 +1,5 @@
 import flet as ft
 
-
-
-
-
 container = ft.Container(
     ft.Column(
         [
